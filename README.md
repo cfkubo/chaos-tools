@@ -42,15 +42,15 @@ Observe behavior: Monitor your application's performance and identify any issues
 Gather data: Collect data on the impact of failures on your application's resilience.
 
 6. Analyze Results:
-Review data: Analyze the data collected during the chaos experiments.
+> Review data: Analyze the data collected during the chaos experiments.
 Identify weaknesses: Identify areas where your application is vulnerable to failures.
 Prioritize improvements: Prioritize improvements based on the severity of identified weaknesses.
 
 7. Implement Improvements:
-Make changes: Implement changes to address the weaknesses identified in your chaos testing.
+> Make changes: Implement changes to address the weaknesses identified in your chaos testing.
 Retest: Re-run chaos experiments to verify that the improvements have been effective.
 
 8. Iterate and Refine:
-Continuously test: Make chaos testing a regular part of your development and testing process.
+> Continuously test: Make chaos testing a regular part of your development and testing process.
 Refine experiments: Refine your chaos experiments based on the results of previous tests.
 Adapt to changes: As your application evolves, update your chaos testing strategies to reflect new risks and vulnerabilities.
