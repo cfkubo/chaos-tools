@@ -1,7 +1,7 @@
 <p align="center">
 <img src="static/logo.png" width="800" alt="logo" />
 </p>
-Collection of chaos[chaos-tools](https://github.com/cfkubo/chaos-tools
+Collection of chaos[chaos-tools](https://github.com/cfkubo/chaos-tools).
 
 # Chaostoolkit Cloud Foundry
 > Chaostoolkit Cloud Foundry [Chaos toolkit](https://github.com/chaostoolkit-incubator/chaostoolkit-cloud-foundry).
