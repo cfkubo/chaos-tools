@@ -3,7 +3,7 @@
 </p>
 
 
-# chaos-tools
+# chaos-tools [chaos-tools](https://github.com/cfkubo/chaos-tools
 Collection of chaos tools
 
 
@@ -14,6 +14,15 @@ Collection of chaos tools
 
 # Chaos Monkey Spring Boot
 > Chaos Monkey Spring Boot [Chaos Monkey](https://github.com/codecentric/chaos-monkey-spring-boot).
+
+### How does it work?
+> If Spring Boot Chaos Monkey is on your classpath and activated with profile name `chaos-monkey`, it will automatically hook into your application.
+
+> Now you can activate [watchers](https://codecentric.github.io/chaos-monkey-spring-boot/latest/#watchers), which look for classes to [assault](https://codecentric.github.io/chaos-monkey-spring-boot/latest/#assaults). There are also [runtime assaults](https://codecentric.github.io/chaos-monkey-spring-boot/latest/#runtime-assaults), which attack your whole application.
+
+<p align="center">
+  <img class="imgborder s1" width="90%" src="static/sb-chaos-monkey-architecture.png">
+</p>
 
 
 ### Chaos testing is a deliberate practice of introducing failures into a system to test its resilience.
