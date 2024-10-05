@@ -1,7 +1,7 @@
 <p align="center">
 <img src="static/logo.png" width="800" alt="logo" />
 </p>
-> Collection of chaos[chaos-tools](https://github.com/cfkubo/chaos-tools).
+Collection of chaos[chaos-tools](https://github.com/cfkubo/chaos-tools).
 
 # Chaostoolkit Cloud Foundry
 > Chaostoolkit Cloud Foundry [Chaos toolkit](https://github.com/chaostoolkit-incubator/chaostoolkit-cloud-foundry).
@@ -19,6 +19,8 @@
 <p align="center">
   <img class="imgborder s1" width="90%" src="static/sb-chaos-monkey-architecture.png">
 </p>
+
+
 
 
 ### Chaos testing is a deliberate practice of introducing failures into a system to test its resilience.
